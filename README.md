@@ -135,32 +135,3 @@ This is the backend for a job search web application built with FastAPI, MongoDB
     }
   ]
   ```
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-
-### Project Structure
-
-Here’s a reminder of the project structure for clarity:
-
-```
-job-search-backend/
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── auth.py
-│   ├── jobs.py
-│   ├── database.py
-│   ├── models.py
-│   ├── schemas.py
-├── import_jobs.py
-├── pyproject.toml
-├── requirements.txt
-├── .env
-└── README.md
-```
-
-This README provides all the necessary information to set up and run the backend for the job search application, including installation steps, configuration, and API endpoint details.
