@@ -1,5 +1,3 @@
-Sure, here's a README file for the backend code you provided. This will help you and others understand how to set up and run the project.
-
 **`README.md`**
 
 ```markdown
